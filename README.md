@@ -7,4 +7,8 @@
 
 ## credit
 
-This project was created as part of a learning experience and is inspired by the Codecademy "Challenge Project: JavaScript and the DOM" curriculum.
+This project was created as part of a learning experience and is inspired by the Codecademy "Challenge Project: JavaScript and
+
+## GitHub Pages
+
+You can view the live version of this project on GitHub Pages: [howToDOM](https://marcprojer.github.io/howToDOM/).
